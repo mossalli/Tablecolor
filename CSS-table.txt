@@ -1,0 +1,64 @@
+table{
+  border: 1px solid black; 
+  margin-left: 80px;
+}
+td, th{
+  border: 1px solid black; 
+/*   width: 150px;
+  height: 80px; */
+}
+td{
+  text-align: right;
+  vertical-align: middle;
+  border: 3px solid black;
+  padding: 10px;
+}
+#black{
+    background-color: black;
+  }
+#pink{
+  
+   background-color: pink;
+ }
+#grey{
+   background-color: grey;
+ }#blue{
+   background-color: blue;
+ }#black2{
+   background-color: black;
+ }#yellow{
+    
+   background-color: yellow;
+ }#black3{
+   background-color: black;
+ }#blue2{
+   background-color: blue;
+ }#black4{
+   background-color: black;
+ }#red{
+   background-color: red;
+ }#blue3{
+   background-color: blue;
+ }#black5{
+   background-color: black;
+ }#green{
+   background-color: green;
+ }#pink2{
+   background-color: pink;
+ }#red5{
+   background-color: red;
+ }#blue5{
+   background-color: blue;
+ }#yellow2{
+   background-color: yellow;
+ }#red6{
+   background-color: red;
+ }#green2{
+   background-color: green;
+ }#red2{
+   background-color: red;
+ }
+
+h1{
+  margin-bottom: 80px;
+}

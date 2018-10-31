@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>Table</h1>
+    <table>
+      <tr>
+        <td rowspan="2" id="black">black</td>
+        <td id="pink">pink</td>
+        <td rowspan="2" id="grey">grey</td>
+        <td id="blue">blue</td>
+        <td rowspan="2" id="black2">black2</td>
+      </tr>
+      <tr>
+        <td id="yellow">yellow</td>
+        <td id="black3">black3</td>
+      </tr>
+      <tr>
+        <td id="blue2">blue2</td>
+        <td rowspan="2" id="black4">black4</td>
+        <td rowspan="2" id="red">red</td>
+        <td colspan="2" id="blue3">blue3</td>
+      </tr>
+      <tr>
+        <td id="red2">red2</td>
+       
+        
+        <td id="black5">black5</td>
+        <td id="green">green</td>
+      </tr>
+          
+            
+      <tr>
+        <td colspan="5" id="pink2">pink2</td>
+      </tr>
+      <tr>
+        <td rowspan="2" id="red5">red5</td>
+        <td rowspan="2" id="blue5">blue5</td>
+        <td colspan="2" id="yellow2">yellow2</td>
+        <td rowspan="2" id="red6">red6</td>
+      </tr>
+      <tr>
+        <td colspan="2" id="green2">green2</td>
+      </tr>
+    </table>
+  </body>
+</html>
